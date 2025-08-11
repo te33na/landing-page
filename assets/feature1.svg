@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Abstract feature illustration">
+  <defs>
+    <linearGradient id="f1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop stop-color="#3b82f6" offset="0%" />
+      <stop stop-color="#60a5fa" offset="100%" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#f3f4f6" />
+  <rect x="100" y="100" width="1000" height="600" rx="40" fill="url(#f1)" />
+</svg>
